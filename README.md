@@ -1,2 +1,3 @@
-# Task_List_Manager
+# Task List Manager
 MEAN Stack Application
+Simple MEAN Stack Application designed to...
